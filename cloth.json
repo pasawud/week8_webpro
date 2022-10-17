@@ -1,0 +1,40 @@
+{
+	"top1":{
+		"brandname": "A.K.O.O Clothing",
+		"price":"200$",
+		"pic":"top1.jpg"},
+	"top2":{
+		"brandname": "B.K.T Clothing",
+		"price":"199$",
+		"pic":"top2.jpg"},
+	"top3":{
+		"brandname": "S.K.T Clothing",
+		"price":"100$",
+		"pic":"top3.jpg"},
+	"top4":{
+		"brandname": "Victoria Clothing",
+		"price":"120$",
+		"pic":"top3.jpg"},
+	"top5":{
+		"brandname": "OffWhite Clothing",
+		"price":"299$",
+		"pic":"top3.jpg"},
+	"top6":{
+		"brandname": "S.K Clothing",
+		"price":"100$",
+		"pic":"top3.jpg"},
+	"top7":{
+		"brandname": "Salute Clothing",
+		"price":"250$",
+		"pic":"top3.jpg"},
+	"top8":{
+		"brandname": "Putang Clothing",
+		"price":"99$",
+		"pic":"top3.jpg"},
+	"top9":{
+		"brandname": "Demonsur Clothing",
+		"price":"100$",
+		"pic":"top3.jpg"}
+
+	
+}
